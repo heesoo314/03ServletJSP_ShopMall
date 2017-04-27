@@ -1,0 +1,35 @@
+@CHARSET "UTF-8";
+
+div#box{
+	text-align: center;
+}
+#hh{
+	color: maroon;
+}
+
+a:link{text-decoration:none; color:navy}
+a:visited{text-decoration:none; color:navy}
+a:hover{text-decoration:none; color:green}
+
+table {
+	text-align : center;
+	width : 800px;
+	font-size :18px;
+	border-collapse: collapse;
+}
+	
+
+img.s_img{
+	width: 100px;
+	height: 95px;
+}
+
+span.red {
+	color:red;
+}
+
+.empty{
+	height: 60px;
+	font-size: 13px;
+}
+
